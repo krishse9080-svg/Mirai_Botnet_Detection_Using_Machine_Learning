@@ -15,3 +15,5 @@ Confusion_Matrix_RF_CV : Confusion Matrix for RF model on cross-validation datas
 
 RF_50trees_12depth : RF model
 Crossvalid_RF_50trees_12depth : RF model for cross-validation
+
+This project is licensed under the BSD 3-Clause License - see the LICENSE file for details.
